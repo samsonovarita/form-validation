@@ -1,7 +1,7 @@
 # [samsonovarita.github.io](https://samsonovarita.github.io/)
 =========================
 
-Version: v0.0.5
+Version: v0.0.7
 
 Description: form with validation by regular expression
 
