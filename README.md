@@ -1,12 +1,15 @@
-# [samsonovarita/form-validation](https://samsonovarita.github.io/form-validation/)
-=========================
+# Project "Form-validation"
 
-Version: v0.0.7
+Link: [samsonovarita/form-validation](https://samsonovarita.github.io/form-validation/)
 
-Description: form with validation by regular expression
+## Description: 
+form with validation by regular expression
 
-Project purpose: train validation using
+## Version: 
+v0.0.7
 
-Stack: JS, CSS, HTML, WebPack, GIT
+## Project purpose: 
+Train validation using
 
-INSTALLATION: Just put some info to the fields
+## Stack: 
+JS, CSS, HTML, WebPack, GIT
