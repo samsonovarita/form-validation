@@ -3,7 +3,7 @@
 Link: [samsonovarita/form-validation](https://samsonovarita.github.io/form-validation/)
 
 ## Description: 
-form with validation by regular expression
+Form with validation by regular expression
 
 ## Version: 
 v0.0.7
